@@ -1,6 +1,5 @@
 id: "fs"
 description: "FileSystem Module"
-entry: index.ako
 functions:
   - ./lib/functions.js
 commands:

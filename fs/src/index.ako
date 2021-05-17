@@ -1,4 +1,0 @@
-name = "World"
-@print("Hello {name}!")
-cwd = cwd()
-@print("This is the path {cwd}")
